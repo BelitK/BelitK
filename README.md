@@ -15,7 +15,7 @@
 ### 🌱 I’m currently Studying: Drone Automation & Targeting
 ### 📫 How to reach me:
 
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/belit-k/)
 [![Hotmail](https://img.shields.io/badge/Gmail-99001A?style=for-the-badge&logo=Gmail&logoColor=white
 )](mailto:belitberdelk@gmail.com)
