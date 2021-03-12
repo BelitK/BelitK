@@ -1,11 +1,16 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=belitk&color=grey)
 
-<!--
-**BelitK/BelitK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## *Hi, I`m Belit
+- 🎓 4th year Computer Engineering student at Beykent University.
 
-Here are some ideas to get you started:
+[![BelitK's GitHub stats](https://github-readme-stats.vercel.app/api?username=belitk&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
+[![trophy](https://github-profile-trophy.vercel.app/?username=belitk&row=2&column=3&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +19,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="certificates/google-it-automation-professional-certificate.png"
+     alt="google it certificate"
+     href="https://www.youracclaim.com/badges/32c76830-02e2-4de0-be9a-6d9576fd30a9/public_url"
+      />
+
+<img src="certificates/google-it-support-professional-certificate.png"
+     alt="google it certificate"
+     href="https://www.youracclaim.com/badges/32c76830-02e2-4de0-be9a-6d9576fd30a9/public_url"
+      />
+
+[Google IT support certificate](/certificates/advanced-machine-learning-and-signal-processing.png)
