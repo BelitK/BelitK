@@ -2,7 +2,7 @@
 
 ## Hi, I`m Belit
 
-### 🎓 4th year Computer Engineering student at Beykent University. Interested in robotics and automation.
+### 💼 Working as RPA Developer at Kronnika. Interested in robotics and automation. 
 
 #### Skills:
 ![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=FFFF00) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  ![GCloud](https://img.shields.io/badge/Google_Cloud-4285D4?style=for-the-badge&logo=google-cloud&logoColor=white)    ![Flask](https://img.shields.io/badge/Flask-092E20?style=for-the-badge&logo=flask&logoColor=white)  ![ROS](https://img.shields.io/badge/ROS-000000?style=for-the-badge&logo=Ros&logoColor=Black)  ![Opencv](https://img.shields.io/badge/-Opencv-555555?style=for-the-badge&logo=opencv&logoColor=000000&textColor=yellow)  ![Raspberry](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  ![Postgre](https://img.shields.io/badge/PostgreSQL-d97d97?style=for-the-badge&logo=postgresql&logoColor=purple)  ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Pycharm](https://img.shields.io/badge/Pycharm-111111?style=for-the-badge&logo=Pycharm&logoColor=white) ![](https://img.shields.io/badge/Pycharm-111111?style=for-the-badge&logo=Pycharm&logoColor=white)
